@@ -9,40 +9,17 @@
 ![chame](https://user-images.githubusercontent.com/103688000/174097331-847f5db8-f8f6-467d-8b05-aed3403ed25c.png)<br>
 <b>Logo após chame o armazenando em uma constante</b><br><br>
 ![configure](https://user-images.githubusercontent.com/103688000/174097725-9c395f35-6b7d-4ab9-bbda-e1c7ca44f4fd.png)<br>
-<b>Chame a função creatTransport e coloque nela o host(que você irá pesquisar no google pelo smtp da organização do email<br>
+<b>Chame a função creatTransport e coloque nela o host(que você irá pesquisar no google pelo smtp da organização do email)<br>
 Depois a porta que estará na pesquisa e coloque o secure, true para a porta 465(Gmail) e false para outras<br>
 Depois auth e você irá colocar o email remetente no user e no pass a senha desse email caso esteja usando hotmail<br>
 E se for pelo Gmail, configure uma senha de app na sua conta google e insira.</b><br><br>
 ![destinatario](https://user-images.githubusercontent.com/103688000/174100323-704b306c-fad4-4304-afa7-f2dd84021bea.png)<br>
-<b>Chmame a função sendMail e coloque o nome do rementente e o email remetente coloca em<><br>
+<b>Chame a função sendMail e coloque o nome do rementente e o email remetente coloca em<><br>
 o to é para qual email vai enviar, o subject é o assunto do email e o html a estrutura dele</b><br><br>
 ![capturar](https://user-images.githubusercontent.com/103688000/174101124-6de42190-25a4-4735-94c2-c8edf42ab238.png)<br>
 <b>Capture no terminal se foi enviado ou não</b><br><br>
 ![executar](https://user-images.githubusercontent.com/103688000/174101355-2d56f650-a379-41a3-86e8-02143f98d815.png)<br><br>
-<b>Por fim para executar basta colocar no terminal node e o nome do arquivo.js</b>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<b>Por fim para executar basta colocar no terminal node e o nome do arquivo.js</b><br>
 
 
 ##
